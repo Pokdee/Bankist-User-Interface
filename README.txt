@@ -1,4 +1,4 @@
-# Bankist
+# Bankist (Mobile version not available)
 Modern banking app 
 
 login info
